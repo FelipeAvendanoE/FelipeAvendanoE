@@ -4,7 +4,7 @@ Hola, mi nombre es Felipe Avendaño Espinoza y soy un ingeniero civil industrial
 
 Me interesan el análisis y la ciencia de datos, ya que nos permiten lograr entender ideas y situaciones complejas al analizar millones de observaciones, lo cual podemos aplicar de manera directa al negocio y obtener acciones concretas para mejorar.
 
-Soy una persona proactiva, con un fuerte interes en aprender cosas nuevas. Poseo un nivel avanzado de inglés y conocimientos en las siguientes herramientas
+Soy una persona proactiva, con un fuerte interés en aprender cosas nuevas. Poseo un nivel avanzado de inglés y conocimientos en las siguientes herramientas
 
 - Python
 - R
