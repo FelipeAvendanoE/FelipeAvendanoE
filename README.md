@@ -11,6 +11,7 @@ Soy una persona proactiva, con un fuerte interés en aprender cosas nuevas. Pose
 - SQL
 - Tableau
 - Power BI
+- BigQuery
 
 
 <!--
