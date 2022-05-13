@@ -6,6 +6,7 @@ Me interesan el análisis y la ciencia de datos, ya que nos permiten lograr ente
 
 Soy una persona proactiva, con un fuerte interés en aprender cosas nuevas. Poseo un nivel avanzado de inglés y conocimientos en las siguientes herramientas
 
+- Excel
 - Python
 - R
 - SQL
