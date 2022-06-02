@@ -2,7 +2,7 @@
 
 Hola, mi nombre es Felipe Avendaño Espinoza y soy un ingeniero civil industrial de la Universidad Técnica Federico Santa María.
 
-Me interesan el análisis y la ciencia de datos, ya que nos permiten lograr entender ideas y situaciones complejas al analizar millones de observaciones, lo cual podemos aplicar de manera directa al negocio y obtener acciones concretas para mejorar.
+Me interesan el análisis y la ciencia de datos además de la inteligencia de negocios, ya que nos permiten lograr entender ideas y situaciones complejas al analizar millones de observaciones, lo cual podemos aplicar de manera directa en la empresa y obtener acciones concretas para mejorar.
 
 Soy una persona proactiva, con un fuerte interés en aprender cosas nuevas. Poseo un nivel avanzado de inglés y conocimientos en las siguientes herramientas
 
@@ -13,6 +13,12 @@ Soy una persona proactiva, con un fuerte interés en aprender cosas nuevas. Pose
 - Tableau
 - Power BI
 - BigQuery
+
+### Certificaciones
+
+- Google Data Analytics Professional Certificate
+- Data Analysis With Python FreeCodeCamp 
+- IBM Data Science Professional Certificate (En progreso)
 
 
 <!--
